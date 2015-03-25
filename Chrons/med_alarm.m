@@ -1,5 +1,3 @@
-yright (c) 2014 nyu.edu. All rights reserved.
-//
 
 #import "med_alarm.h"
 
